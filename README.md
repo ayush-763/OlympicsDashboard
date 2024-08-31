@@ -1,1 +1,1 @@
-# OlympicsDashboard
+# Olympics Dashboard
